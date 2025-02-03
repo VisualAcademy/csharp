@@ -21,8 +21,10 @@ class PartialPropertyDemo
 {
     static void Main()
     {
-        EmployeePartial employee = new EmployeePartial();
-        employee.FullName = "john doe";
+        EmployeePartial employee = new()
+        {
+            FullName = "john doe"
+        };
         Console.WriteLine(employee.FullName); // JOHN DOE
     }
 }
