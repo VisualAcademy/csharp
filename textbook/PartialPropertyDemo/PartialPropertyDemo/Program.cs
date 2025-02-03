@@ -9,7 +9,7 @@ public partial class EmployeePartial
 // 두 번째 파일: 구현 부분
 public partial class EmployeePartial
 {
-    private string _fullName = ""; // 초기값을 빈 문자열로 설정
+    private string _fullName = "";
     public partial string FullName
     {
         get => _fullName;
