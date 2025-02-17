@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorDivide", "OperatorDivide\OperatorDivide.csproj", "{5617CC9D-6DD3-4B1E-A9AC-AF5BF56A968D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5617CC9D-6DD3-4B1E-A9AC-AF5BF56A968D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5617CC9D-6DD3-4B1E-A9AC-AF5BF56A968D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5617CC9D-6DD3-4B1E-A9AC-AF5BF56A968D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5617CC9D-6DD3-4B1E-A9AC-AF5BF56A968D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DED1B4-3816-4545-B459-0FA7A6F89A4B}
+	EndGlobalSection
+EndGlobal
