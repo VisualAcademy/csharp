@@ -12,8 +12,10 @@ class InitDemo
     static void Main()
     {
         // 개체 초기화 시 속성 값 설정 가능
-        var person = new PersonInit { Name = "홍길동", Age = 30, Address = "서울" };
-        WriteLine($"이름: {person.Name}, 나이: {person.Age}, 주소: {person.Address}");
+        var person = 
+            new PersonInit { Name = "홍길동", Age = 21, Address = "서울" };
+        WriteLine(
+            $"이름: {person.Name}, 나이: {person.Age}, 주소: {person.Address}");
 
         // 개체가 생성된 후에도 Address 속성 값 변경 가능
         person.Address = "부산";
