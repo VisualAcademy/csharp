@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dul.Tests", "Dul.Tests\Dul.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuGet.Tests", "NuGet.Tests", "{C8D5274F-AC00-46C7-1F8D-E88E81087A52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dul.NuGetPackage.Test", "Dul.NuGetPackage.Test\Dul.NuGetPackage.Test.csproj", "{3803986D-3B7F-4D9B-A672-4853C77E9A1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,9 +31,16 @@ Global
 		{827431F7-07BF-456A-BBD0-0493670E64F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{827431F7-07BF-456A-BBD0-0493670E64F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{827431F7-07BF-456A-BBD0-0493670E64F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3803986D-3B7F-4D9B-A672-4853C77E9A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3803986D-3B7F-4D9B-A672-4853C77E9A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3803986D-3B7F-4D9B-A672-4853C77E9A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3803986D-3B7F-4D9B-A672-4853C77E9A1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3803986D-3B7F-4D9B-A672-4853C77E9A1D} = {C8D5274F-AC00-46C7-1F8D-E88E81087A52}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3662FF37-6674-4CC4-AD66-964A67BC8D1B}
