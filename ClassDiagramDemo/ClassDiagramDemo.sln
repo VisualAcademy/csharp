@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDiagramDemo", "ClassDiagramDemo\ClassDiagramDemo.csproj", "{2CC66A18-F9BA-407E-8C32-86971F8FFF2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC66A18-F9BA-407E-8C32-86971F8FFF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC66A18-F9BA-407E-8C32-86971F8FFF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC66A18-F9BA-407E-8C32-86971F8FFF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC66A18-F9BA-407E-8C32-86971F8FFF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8127BD-33A3-4FD6-8065-F19B152842EE}
+	EndGlobalSection
+EndGlobal
