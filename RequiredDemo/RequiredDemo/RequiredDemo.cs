@@ -16,6 +16,6 @@ class RequiredDemo
         Console.WriteLine($"Name: {person.Name}, Age: {person.Age}");
 
         // 필수 속성이 누락되면 컴파일 오류가 발생함
-        // var invalidPerson = new PersonRequired { Name = "백두산" }; // Age 속성 없음 → 오류 발생
+        // var invalidPerson = new PersonRequired { Name = "백두산" };
     }
 }
