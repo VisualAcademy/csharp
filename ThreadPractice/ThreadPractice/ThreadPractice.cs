@@ -33,6 +33,7 @@ class ThreadPractice
         t2.Start();
         t3.Start();
         //② 프로세스
+        //Process.Start("IExplore.exe"); //익스플로러 실행 => Windows 11에서 실행 안됨
         Process.Start("Notepad.exe"); //메모장 실행
     }
 }
