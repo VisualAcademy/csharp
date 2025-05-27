@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchFinallyDemo2", "TryCatchFinallyDemo2\TryCatchFinallyDemo2.csproj", "{DD4A8F36-36CE-452A-8764-F5917EBB3241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4A8F36-36CE-452A-8764-F5917EBB3241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4A8F36-36CE-452A-8764-F5917EBB3241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4A8F36-36CE-452A-8764-F5917EBB3241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4A8F36-36CE-452A-8764-F5917EBB3241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BADFC1C-B173-46D5-B4A0-365B0748C438}
+	EndGlobalSection
+EndGlobal
